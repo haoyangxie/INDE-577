@@ -1,1 +1,1 @@
-# INDE-577
+# INDE-577 by Rice University
