@@ -1,5 +1,5 @@
 # Supervised learning
 
-## Introduce
+## Introduction
 
 ## contents
