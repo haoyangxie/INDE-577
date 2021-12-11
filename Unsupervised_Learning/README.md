@@ -1,17 +1,7 @@
-# K-Means clustering
+# Unsupervised learning
 
-## Contents 
-In this notebook, we use k-means clustering algorithm to classify all customers in the shopping mall based on the gender, age, annual income, and consumption level of them.
+## Introduce
+Unsupervised learning is a type of machine learning in which the algorithm is not provided with any pre-assigned labels or scores for the training data. As a result, unsupervised learning algorithms must first self-discover any naturally occurring patterns in that training data set. Common examples include clustering, where the algorithm automatically groups its training examples into categories with similar features, and principal component analysis, where the algorithm finds ways to compress the training data set by identifying which features are most useful for discriminating between different training examples, and discarding the rest. This contrasts with supervised learning in which the training data include pre-assigned category labels (often by a human, or from the output of non-learning classification algorithm). Other intermediate levels in the supervision spectrum include reinforcement learning, where only numerical scores are available for each training example instead of detailed tags, and semi-supervised learning where only a portion of the training data have been tagged.
 
-
-## Dataset
-This data set has five columns, which are customer id, gender, age, annual income, and consumption level.
-
-## Software Requirements
-The following packages will be needed to run the code below: 
-
-* Pandas [documentation](https://pandas.pydata.org/docs/)
-* Matplotlib [documentationra](https://matplotlib.org/)
-* Numpy [documentation](https://numpy.org/doc/)
-* Seaborn [documentation](https://seaborn.pydata.org/)
+Advantages of unsupervised learning include a minimal workload to prepare and audit the training set, in contrast to supervised learning techniques where a considerable amount of expert human labor is required to assign and verify the initial tags, and greater freedom to identify and exploit previously undetected patterns that may not have been noticed by the "experts". This often comes at the cost of unsupervised techniques requiring a greater amount of training data and converging more slowly to acceptable performance, increased computational and storage requirements during the exploratory process, and potentially greater susceptibility to artifacts or anomalies in the training data that might be obviously irrelevant or recognized as erroneous by a human, but are assigned undue importance by the unsupervised learning algorithm.
 
