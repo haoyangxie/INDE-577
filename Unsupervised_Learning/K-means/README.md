@@ -1,6 +1,6 @@
 # K-Means clustering
 
-## Introduce
+## Introduction
 K-means clustering is a type of unsupervised learning, which is used with unlabeled dataset. The goal of this algorithm is to find K groups in the data. The algorithm works iteratively to assign each data point to one of K groups based on the features that are provided. Data points are clustered based on feature similarity. The results of the K-means clustering algorithm are:
 
 The centroids of the K clusters, which can be used to label new data
