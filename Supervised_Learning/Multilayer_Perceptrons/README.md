@@ -5,10 +5,10 @@ A multilayer perceptron (MLP) is a class of feedforward artificial neural networ
 An MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training. Its multiple layers and non-linear activation distinguish MLP from a linear perceptron. It can distinguish data that is not linearly separable. 
 
 ## Contents 
-In this notebook, we use MLP algorithm to train model to classify images of handwritten digits from `0-9` in MNIST dataset.
+In this notebook, we use MLP algorithm to train model to  predict the condition of passengers survival according to the different characteristics of different passengers.
 
 ## Dataset
-Data here is from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) of `28x28` pixel images of handwritten digits from `0-9`, which has an important place in the history of machine learning.
+The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv). The dataset contains few columns such as, whether passengers can survive, ticket class, sex, age in years, ticket number, passenger fare, cabin number.
 
 ## Software Requirements
 The following packages will be needed to run the code below: 
@@ -17,3 +17,4 @@ The following packages will be needed to run the code below:
 * Matplotlib [documentationra](https://matplotlib.org/)
 * Numpy [documentation](https://numpy.org/doc/)
 * Scikit-learn [documentation](https://scikit-learn.org/stable/)
+* Seaborn [documentation](https://seaborn.pydata.org/)
