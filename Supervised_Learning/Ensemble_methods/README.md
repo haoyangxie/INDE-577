@@ -5,6 +5,7 @@ In statistics and machine learning, ensemble methods use multiple learning algor
 
 ## Contents 
 In this notebook, I use knn, gradient descent, logistic regression, perceptron, support vector machines, decision tree, random forest to build models to predict the Titanic disaster to compare the scores of different methods.
+![image](https://obohe.com/i/2021/12/13/8wnhgr.jpg)
 
 ## Dataset
 The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv).
