@@ -12,7 +12,7 @@ A decision tree consists of three types of nodes:
 In this notebook, I use decision tree model to analyse passenger data (ie name, age, gender, socio-economic class, etc) to predict whether passenger can survive.
 
 ## Dataset
-The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv).
+The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv). The dataset contains few columns such as, whether passengers can survive, ticket class, sex, age in years, ticket number, passenger fare, cabin number.
 
 ## Software Requirements
 The following packages will be needed to run the code below: 
