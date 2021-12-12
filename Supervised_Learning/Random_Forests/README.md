@@ -7,8 +7,7 @@ Random forests or random decision forests are an ensemble learning method for cl
 In this notebook, I use random forest model to find the importance of different variables. To determine which characteristics are most relevant to the survival of passengers.
 
 ## Dataset
-The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv).
-Dataset also includes gender_submission.csv, a set of predictions that assume all and only female passengers survive.
+The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv). The dataset contains few columns such as, whether passengers can survive, ticket class, sex, age in years, ticket number, passenger fare, cabin number. Dataset also includes gender_submission.csv, a set of predictions that assume all and only female passengers survive.
 
 ## Software Requirements
 The following packages will be needed to run the code below: 
