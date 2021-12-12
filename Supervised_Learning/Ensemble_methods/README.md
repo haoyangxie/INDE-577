@@ -4,7 +4,7 @@
 In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. Unlike a statistical ensemble in statistical mechanics, which is usually infinite, a machine learning ensemble consists of only a concrete finite set of alternative models, but typically allows for much more flexible structure to exist among those alternatives.
 
 ## Contents 
-In this notebook, I use knn, gradient descent, logistic regression, perceptron, support vector machines, decision tree, random forest to build models to predict the Titanic disaster to compare the scores of different methods.
+In this notebook, I use knn, gradient descent, logistic regression, perceptron, support vector machines, decision tree, random forest to build models to predict the Titanic disaster to compare the scores of different methods. The result is as follow:  
 ![image](https://obohe.com/i/2021/12/13/8wnhgr.jpg)
 
 ## Dataset
