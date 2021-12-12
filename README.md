@@ -1,4 +1,4 @@
-# INDE-577 by Rice University
+# INDE577 by Rice University
 
 ### Student name: Haoyang Xie  
 ### Instructor name: Randy Davila
