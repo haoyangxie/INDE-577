@@ -13,7 +13,6 @@ In this notebook, I use decision tree model to analyse passenger data (ie name, 
 
 ## Dataset
 The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv).
-Dataset also includes gender_submission.csv, a set of predictions that assume all and only female passengers survive.
 
 ## Software Requirements
 The following packages will be needed to run the code below: 
