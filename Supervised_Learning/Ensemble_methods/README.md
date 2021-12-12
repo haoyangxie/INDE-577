@@ -8,7 +8,7 @@ In this notebook, I use knn, gradient descent, logistic regression, perceptron, 
 ![image](https://obohe.com/i/2021/12/13/8wnhgr.jpg)
 
 ## Dataset
-The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv).
+The dataset called Titanic is from [kaggle](https://www.kaggle.com/c/titanic/data). The data has been split into two groups: training set (train.csv), test set (test.csv). The dataset contains few columns such as, whether passengers can survive, ticket class, sex, age in years, ticket number, passenger fare, cabin number.
 Dataset also includes gender_submission.csv, a set of predictions that assume all and only female passengers survive.
 
 ## Software Requirements
